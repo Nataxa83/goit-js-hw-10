@@ -51,5 +51,5 @@ function createPromise(e) {
       });
     });
   
-  console.log(promise);
+ 
 };
